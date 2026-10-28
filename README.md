@@ -1,4 +1,4 @@
-# Group NLP Project
+# Group 4 NLP Project
 Members: Nalweyiso Racheal and Orishaba Jenipher
 
 ## App 1: Sentiment analyser

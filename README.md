@@ -36,5 +36,5 @@ We would use our fine-tuned DistilBERT model when we need very fast predictions,
 - The document chatbot only knows what is written inside our uploaded hostel rules PDF and will say it does not know if asked about anything else.
 
 ## Who did what
-- Member A (Orishaba Jenipher): Trained the DistilBERT model in Colab, uploaded the model weights and tokenizer to Hugging Face, and filled in the model card.
-- Member B (Nalweyiso Racheal): Built the Gradio and FastAPI apps, handled the PDF text chunking and embeddings, tested the chatbot, and managed the GitHub repository.
+- Member A (Orishaba Jenipher): Trained the DistilBERT model in Colab, uploaded the model weights and tokenizer to Hugging Face, filled in the model card and managed the GitHub repository.
+- Member B (Nalweyiso Racheal): Built the Gradio and FastAPI apps, handled the PDF text chunking and embeddings, tested the chatbot.
